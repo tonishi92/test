@@ -1,4 +1,5 @@
 HOTFIX is done
+
 aaa
 ccc
 ddd
@@ -6,6 +7,8 @@ eee
 fff
 ggg
 
+footer work started
+footer work ended
 
-footer here
-end of footer
+
+add something in footer_something branch
