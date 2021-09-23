@@ -6,6 +6,7 @@ DDD
 
 this is a line of text inserted in test2
 
+xyz XYZ
 
 eee
 fff
