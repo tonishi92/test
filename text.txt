@@ -3,6 +3,10 @@ HOTFIX is done
 aaa
 ccc
 ddd
+
+this is a line of text inserted in test2
+
+
 eee
 fff
 ggg
