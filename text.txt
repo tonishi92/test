@@ -1,8 +1,8 @@
 HOTFIX is done
 
-aaa
+AAA
 ccc
-ddd
+DDD
 
 this is a line of text inserted in test2
 
