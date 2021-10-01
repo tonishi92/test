@@ -7,19 +7,6 @@ AAA
 ccc
 DDD
 
-this is a line of text inserted in test2
-
-xyz3 XYZ3
-
-
-eee
-fff
-ggg
-
-hhh added to test_copy
-
-footer work started
-footer work ended
-
+subroutine modif_02
 
 add something in footer_something branch
